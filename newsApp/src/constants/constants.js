@@ -1,0 +1,3 @@
+export const FETCH_ARTICLES = "FETCH_ARTICLES";
+export const TOGGLE_FAVORITES = "TOGGLE_FAVORITES";
+export const USER_LIST = "USER_LIST";
